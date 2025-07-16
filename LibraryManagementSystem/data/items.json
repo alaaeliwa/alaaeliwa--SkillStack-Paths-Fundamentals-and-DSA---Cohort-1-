@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Python Programming",
+        "author": "John Doe",
+        "available": true,
+        "reserved_by": null,
+        "type": "Book",
+        "isbn": "1234567890"
+    },
+    {
+        "title": "Tech Monthly",
+        "author": "Tech Publisher",
+        "available": true,
+        "reserved_by": null,
+        "type": "Magazine",
+        "issue": ""
+    },
+    {
+        "title": "Inception",
+        "author": "Christopher Nolan",
+        "available": false,
+        "reserved_by": 2,
+        "type": "DVD",
+        "duration": "148 min"
+    }
+]
