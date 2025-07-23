@@ -74,5 +74,6 @@ bst.insert(97)
 bst.insert(98)
 
 print("Min:", bst.findMin())  # Output: 3
-print("Max:", bst.findMax())  # Output: 20
+print("Max:", bst.findMax())  # Output: 98
+print("Is Balanced:", isBalanced(bst.root)) #false
 
